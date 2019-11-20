@@ -1,0 +1,12 @@
+{
+  "name": "ggrks",
+  "version": "0.0.0",
+  "description": "ggrks",
+  "main": "ggrks.js",
+  "repository": "git@github.com:YusukeIwaki/ggrks-puppeteer.git",
+  "author": "YusukeIwaki <yusuke-iwaki@example.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer-core": "^2.0.0"
+  }
+}
