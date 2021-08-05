@@ -7,7 +7,7 @@ const searchKeyword = process.argv.slice(2).join(" ") || 'puppeteer';
 
 const launchChrome = puppeteer.launch({
     // MacにインストールされているChromeを使う。
-    executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
+    channel: 'chrome',
 
     // ブラウザ画面を表示しながら（ヘッドレスモードを無効にする）。
     headless: false,

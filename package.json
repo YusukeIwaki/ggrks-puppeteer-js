@@ -7,6 +7,6 @@
   "author": "YusukeIwaki <yusuke-iwaki@example.com>",
   "license": "MIT",
   "dependencies": {
-    "puppeteer-core": "^2.0.0"
+    "puppeteer-core": "^10.2.0"
   }
 }
